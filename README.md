@@ -14,6 +14,3 @@ Este projeto foi desenvolvido para consolidar conceitos de **composição de obj
 
 O programa inicia solicitando a quantidade de postagens a serem registradas. Para cada postagem, o usuário informa o título, o conteúdo, a quantidade de curtidas e a data (seguindo o padrão `dd/MM/yyyy HH:mm`).
 Após criar o post, o sistema abre uma sub-rotina para cadastrar quantos comentários forem necessários para aquela publicação específica. Ao final de todas as inserções, o sistema percorre a lista de postagens e utiliza o `StringBuilder` para exibir um relatório detalhado e formatado de cada item na tela.
-
----
-Desenvolvido por **Lucas de Oliveira Silva**
